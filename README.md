@@ -1,2 +1,3 @@
 # India_CBAM_Cost_Dashboard
-Based on the Bencmark and Acquis tools CBAM calculator, we calculated the CBAM cost of major product which is exported to EU, and it has been projected till 2034 based on the EU provided CBAM methodology. Please reach out to us for more Info, at nishantu@acquiscompliance.com 
+Leveraging the EU Benchmark and our proprietary Acquis CBAM tools, we have successfully modeled the projected CBAM costs for major EU-exported products through 2034. Our analysis strictly adheres to the EU-mandated CBAM methodology to ensure long-term regulatory foresight.
+To learn how these projections impact your specific trade portfolio, please contact us at: nishantu@acquiscompliance.com  
